@@ -1,0 +1,14 @@
+﻿__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+
+# Generated presentation exports and local artifacts
+output/
+
+# Local tooling and operating-system files
+.pytest_cache/
+.DS_Store
+Thumbs.db

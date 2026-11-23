@@ -1,0 +1,6 @@
+# Versions matching the existing local environment.
+fastapi==0.115.6
+uvicorn==0.34.0
+geopandas==1.0.1
+pydantic==2.13.4
+pyproj==3.6.1
